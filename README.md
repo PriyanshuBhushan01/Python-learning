@@ -14,7 +14,7 @@ Build strong Python foundations first, then learn production-ready Python skills
 
 ### 2. Clean Python Essentials
 
-### 3. Object-Oriented Programming
+### 3. Object-Oriented Programming   
 
 ### 4. Data and API Basics
 
