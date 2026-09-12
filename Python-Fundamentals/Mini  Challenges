@@ -1,0 +1,15 @@
+"""Mini Challenge 1: Count the number of vowels in a given word.
+"""
+
+# Vowel counting example:
+
+word = 'artificialintelligence'
+vowels = 'aeiou'
+vowel_count = 0
+
+for char in word:
+    if char in vowels:
+        vowel_count += 1
+
+
+print(vowel_count)
