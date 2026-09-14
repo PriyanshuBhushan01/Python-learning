@@ -4,11 +4,19 @@ Topic: [Strings, integers, Floats]
 
 
 Strings = "Strings are a sequence of characters. They can be defined using single quotes, double quotes, or triple quotes. Strings are immutable, meaning they cannot be changed after they are created."
+           
+           1 ' .... '
+           2 " .... "
+           3 ''' .... '''
+
+        String methods:
+
           # lower()
           # upper()
           # replace()
           # split()
           # Etc...
+          
 integers = "Integers are whole numbers, positive or negative, without decimals. They can be defined using the int() function or by simply assigning a whole number to a variable."
           # Whole no. = -2,-1,0,1,2,3,4,5, etc...
 
