@@ -10,7 +10,7 @@ Build strong Python foundations first, then learn production-ready Python skills
 ## Learning Roadmap
 
 
-### 1. Python Fundamentals 
+### 1. Python Fundamentals  
 
 ### 2. Clean Python Essentials
 
