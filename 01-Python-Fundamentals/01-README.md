@@ -3,12 +3,10 @@
 This folder contains my practice code for Python fundamentals.
 
 ## Topics
-- [x] Strings
+- [x] Strings,Integers & Floats
 - [ ] Loops
 - [ ] Functions
-- [ ] Lists
-- [ ] Tuples
-- [ ] Sets
+- [x] Lists,Tuples & Sets
 - [ ] Dictionaries
 
 ## Learning Method
