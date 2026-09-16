@@ -22,7 +22,7 @@ venv.bak/
 
 # OS files
 .DS_Store
-Thumbs.db
+Thumbs.db 
 
 # Python tooling
 .pytest_cache/
