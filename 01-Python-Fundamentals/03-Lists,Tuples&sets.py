@@ -31,4 +31,16 @@ print(list_1)
 tuple_1 = (1, 2, 3, 4, 5)
 print(tuple_1[0])
 
-# Sets 
+# Sets = "A set is an unordered collection of unique items. Sets are mutable, but they do not allow duplicate items. Sets are defined using curly braces {}."
+
+    # Key points:
+        # Sets are unordered
+        # Sets are mutable
+        # Sets do not allow duplicate items
+        # Use {} to define a set
+# Sets example:
+set_1 = {1, 2, 3, 4, 5}
+set_2 = {4, 5, 6, 7, 8}
+print(set_1.union(set_2))           #{1, 2, 3, 4, 5, 6, 7, 8}
+print(set_1.intersection(set_2))    #{4, 5}
+print(set_1.difference(set_2))      #{1, 2, 3}
