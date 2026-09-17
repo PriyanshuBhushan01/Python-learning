@@ -15,6 +15,7 @@ Strings = "Strings are a sequence of characters. They can be defined using singl
           # upper()
           # replace()
           # split()
+          # count()
           # Etc...
           
 integers = "Integers are whole numbers, positive or negative, without decimals. They can be defined using the int() function or by simply assigning a whole number to a variable."
