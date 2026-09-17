@@ -4,13 +4,13 @@ This repository documents my Python learning journey for building AI agents, RAG
 
 ## Goal
 
-Build strong Python foundations first, then learn production-ready Python skills required for GenAI and LLM engineering.
+Build strong Python foundations first, then learn production-ready Python skills required for GenAI and LLM engineering. 
 
 
 ## Learning Roadmap
 
 
-### 1. Python Fundamentals 
+### 1. Python Fundamentals  
 
 ### 2. Clean Python Essentials
 
