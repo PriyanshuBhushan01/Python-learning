@@ -7,7 +7,7 @@ This folder contains my practice code for Python fundamentals.
 - [ ] Loops
 - [ ] Functions
 - [x] Lists,Tuples & Sets
-- [ ] Dictionaries
+- [x] Dictionaries
 
 ## Learning Method
 For each topic, I:
