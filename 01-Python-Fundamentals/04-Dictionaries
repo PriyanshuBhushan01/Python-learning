@@ -40,3 +40,10 @@ age = student.pop('age')
 print(student['ph no.'])
 print(student)
 
+
+# Using Loop( For, in):
+
+student = {'name': 'jhone','age':24, 'course':['math','sci','his']}
+
+for keys,value in student.items():
+    print(keys,value)
