@@ -1,0 +1,42 @@
+"""
+Topic: [Dictionaries]
+
+
+# Dictionaries =  A dictionary is an unordered collection of key-value pairs.
+                 Dictionaries are mutable(changeable),
+                 Dictionaries are defined using curly braces {}.
+# Key points:
+    # Dictionaries are unordered
+    # Dictionaries are mutable
+    # Dictionaries do not allow duplicate keys
+
+# My_dict = {'key': 'value'}
+
+ ~ key = unique and immutable
+ ~ value = can be of any data type(string, integer, float, list, tuple, set, or another dictionary)
+
+# Dict_Methods:
+ 
+~ clear()
+~ del()
+~ .pop()
+~ .get()
+~ .update()
+~ .keys()
+~ .values()
+~ .items()  etc...
+
+"""
+# Dict_Example:
+
+student = {'name': 'jhone','age':24, 'course':['math','sci','his']}
+
+print(student.keys())
+print(student.values())
+
+student['ph no.'] = 1236
+age = student.pop('age')
+
+print(student['ph no.'])
+print(student)
+
