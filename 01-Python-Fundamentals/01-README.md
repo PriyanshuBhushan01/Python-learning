@@ -8,6 +8,9 @@ This folder contains my practice code for Python fundamentals.
 - [ ] Functions
 - [x] Lists,Tuples & Sets
 - [x] Dictionaries
+- [ ] Conditionals and Booleans (if, else & elif statements)
+
+
 
 ## Learning Method
 For each topic, I:
