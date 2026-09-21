@@ -19,6 +19,7 @@ Topic: [Dictionaries]
  
 ~ clear()
 ~ del()
+~ remove()
 ~ .pop()
 ~ .get()
 ~ .update()
