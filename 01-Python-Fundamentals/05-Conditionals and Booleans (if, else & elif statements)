@@ -1,0 +1,27 @@
+# sentence = 'My name is {0} and I am years old{1} .'.format(['Bob'], ['take a guess'])
+# print(sentence)
+# lan="java"
+# if lan == "py":
+#    print("lan is py")
+# elif lan =="java":
+#     print("lan is java")
+# elif lan =="java":
+#     print("lan is java")    
+# else:
+#     print("nope")       
+# a =[1,2,3]
+# b=a
+# print(b==a)
+
+
+# x=0
+# while x < 10:
+    
+#     print(x)
+#     x -=1
+ 
+for i in range(5):
+    if i > 3:
+        print('bigger then 2')
+        print('still bb')
+print('all done')        
