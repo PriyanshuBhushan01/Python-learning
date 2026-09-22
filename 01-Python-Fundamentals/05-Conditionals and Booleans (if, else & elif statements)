@@ -1,27 +1,26 @@
-# sentence = 'My name is {0} and I am years old{1} .'.format(['Bob'], ['take a guess'])
-# print(sentence)
-# lan="java"
-# if lan == "py":
-#    print("lan is py")
-# elif lan =="java":
-#     print("lan is java")
-# elif lan =="java":
-#     print("lan is java")    
-# else:
-#     print("nope")       
-# a =[1,2,3]
-# b=a
-# print(b==a)
+"""
+Topic: [Conditional and Boolean(if, else & elif statement)]
 
 
-# x=0
-# while x < 10:
-    
-#     print(x)
-#     x -=1
- 
-for i in range(5):
-    if i > 3:
-        print('bigger then 2')
-        print('still bb')
-print('all done')        
+Boolean → a value that is either True or False
+
+        Equal:             ==
+        Not equal:         !=
+        Greater then:      >
+        Less then:         <
+        Greater or equal:  >=
+        less or equal:     <=
+        object identity:   is
+"""        
+
+# Boolean example:
+
+num_1 = 3
+num_2 = 2
+
+print (num_1==num_2)   # False
+print(num_1 != num_2)  # True
+
+
+""" 
+"""
