@@ -50,3 +50,21 @@ elif language == 'java':
    print('java')
 else:
    print('nope')   
+
+
+"""
+False Values:
+
+# False
+# None
+# zero of any numeric type
+# any empty sequence (' ', (  ), [ ] )
+# any emoty mapping. { }
+"""
+
+condition = False
+
+if condition:
+   print('true')
+else:
+   print('false')    
