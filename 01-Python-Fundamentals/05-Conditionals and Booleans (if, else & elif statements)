@@ -3,6 +3,8 @@ Topic: [Conditional and Boolean(if, else & elif statement)]
 
 
 Boolean → a value that is either True or False
+ 
+Boolean operations:
 
         Equal:             ==
         Not equal:         !=
@@ -11,6 +13,10 @@ Boolean → a value that is either True or False
         Greater or equal:  >=
         less or equal:     <=
         object identity:   is
+
+        and (both must be True)
+        or (at least one True)
+        not (reverses True/False)
 """        
 
 # Boolean example:
@@ -23,4 +29,8 @@ print(num_1 != num_2)  # True
 
 
 """ 
+
+Conditional statements → use booleans to decide what code should run
+
+
 """
