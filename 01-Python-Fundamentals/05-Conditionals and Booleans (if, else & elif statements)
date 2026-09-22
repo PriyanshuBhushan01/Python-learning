@@ -32,5 +32,21 @@ print(num_1 != num_2)  # True
 
 Conditional statements → use booleans to decide what code should run
 
+Python keywords:
+
+if: Runs only if the condition is True.
+
+elif: Choose between two options. 
+
+else: if both are false.
 
 """
+ 
+language= 'java'
+
+if language == 'python':
+   print('python')
+elif language == 'java':
+   print('java')
+else:
+   print('nope')   
