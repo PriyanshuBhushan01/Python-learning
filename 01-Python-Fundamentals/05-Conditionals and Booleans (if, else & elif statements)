@@ -66,4 +66,4 @@ condition = False
 if condition:
    print('true')
 else:
-   print('false')    
+   print('false')    # false
