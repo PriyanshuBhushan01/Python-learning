@@ -1,0 +1,4 @@
+def hello_fun(greeting):
+    return f'{greeting} hey fugg'
+print(hello_fun('hi hoo'))   
+#bbnnnnnbnnbvgg
