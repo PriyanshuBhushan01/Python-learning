@@ -57,7 +57,7 @@ False Values:
 # False
 # None
 # zero of any numeric type
-# any empty sequence (' ', (  ), [ ] )
+# any empty sequence ( ' ', (  ), [ ]  )
 # any emoty mapping. { }
 """
 
