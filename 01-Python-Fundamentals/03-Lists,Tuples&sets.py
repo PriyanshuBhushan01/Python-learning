@@ -18,7 +18,8 @@ list_1.insert(0,'apple')
 print(list_1) 
 
 
-# tuples = it is similar to a list but it is immutable. Tuples are defined using parentheses ().
+# tuples = it is similar to a list but it is immutable. 
+#          Tuples are defined using parentheses ().
 
      # Key points:
         # Tuples are ordered    
@@ -31,7 +32,9 @@ print(list_1)
 tuple_1 = (1, 2, 3, 4, 5)
 print(tuple_1[0])
 
-# Sets = "A set is an unordered collection of unique items. Sets are mutable, but they do not allow duplicate items. Sets are defined using curly braces {}."
+# Sets = "A set is an unordered collection of unique items. 
+#        but they do not allow duplicate items.
+#        Sets are defined using curly braces {}."
 
     # Key points:
         # Sets are unordered
