@@ -2,7 +2,8 @@
 Topic: [Lists, Tuples, and Sets]
 """
 
-# Lists = "A list stores multiple items in a ordered collection. Lists are mutable, Lists are defined using square brackets []."     
+# Lists = "A list stores multiple items in a ordered collection. 
+#          Lists are defined using square brackets []."     
 #       Key points:
         # Lists are ordered
         # Lists are mutable

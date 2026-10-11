@@ -5,7 +5,7 @@ This folder contains my practice code for Python fundamentals.
 ## Topics
 - [x] Strings,Integers & Floats
 - [ ] Loops
-- [ ] Functions
+- [x] Functions
 - [x] Lists,Tuples & Sets
 - [x] Dictionaries
 - [x] Conditionals and Booleans (if, else & elif statements)
