@@ -5,9 +5,9 @@ Topic: [Strings, integers, Floats]
 
 Strings = "Strings are a sequence of characters. They can be defined using single quotes, double quotes, or triple quotes. Strings are immutable, meaning they cannot be changed after they are created."
            
-           1 ' .... '
-           2 " .... "
-           3 ''' .... '''
+           1 ' Hello '
+           2 " Hello 123 "
+           3 ''' abc,def,123 '''
 
         String methods:
 
