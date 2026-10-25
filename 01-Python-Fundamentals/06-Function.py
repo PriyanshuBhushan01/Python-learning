@@ -13,7 +13,7 @@ Maintainability: Easier to debug and update.
 Abstraction: Hide details, expose only what’s needed.
 """
 
-# Example:  
+# Example:   
 
 # Function definition 
 def greet(name):
