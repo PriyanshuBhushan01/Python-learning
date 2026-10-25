@@ -15,7 +15,7 @@ Abstraction: Hide details, expose only what’s needed.
 
 # Example:  
 
-# Function definition
+# Function definition 
 def greet(name):
     return f"Hello, {name}!"
 
