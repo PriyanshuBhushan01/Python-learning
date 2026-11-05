@@ -9,7 +9,7 @@ Boolean operations:
         Equal:             ==
         Not equal:         !=
         Greater then:      >
-        Less then:         <
+        Less then:         < 
         Greater or equal:  >=
         less or equal:     <=
         object identity:   is
