@@ -14,7 +14,7 @@ Boolean operations:
         less or equal:     <=
         object identity:   is
 
-        and (both must be True)
+        and (both must be True) 
         or (at least one True)
         not (reverses True/False)
 """        
