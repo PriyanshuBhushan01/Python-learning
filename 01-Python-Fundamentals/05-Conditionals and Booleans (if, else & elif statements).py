@@ -6,7 +6,7 @@ Boolean → a value that is either True or False
  
 Boolean operations:
 
-        Equal:             ==
+        Equal:             == 
         Not equal:         !=
         Greater then:      >
         Less then:         < 
