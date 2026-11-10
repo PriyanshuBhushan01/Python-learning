@@ -16,7 +16,7 @@ Boolean operations:
 
         and (both must be True) 
         or (at least one True)
-        not (reverses True/False)
+        not (reverses True/False) 
 """        
 
 # Boolean example:
