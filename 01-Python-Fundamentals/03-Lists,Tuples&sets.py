@@ -10,7 +10,7 @@ Topic: [Lists, Tuples, and Sets]
         # Lists can contain duplicate items
         # use [] to define a list
 
- # List example:
+ # List example: 
 list_1 = [1, 2, 3, 4, 5]
 list_2 = ['apple', 'banana', 'cherry'] 
 list_1.extend(list_2) # extend() method adds the elements of list_2 to list_1
